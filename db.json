@@ -1,22 +1,11 @@
-[
-    {
-    "timestamp": "2023-01-25T09:08:12+0100",
-    "consultantId": "96491889460001",
-    "event": "WORKGUIDE_SELECTED",
-    "value": {
-    "searchTerm": "",
-    "workguideId": "b7d46ba3-1a60-4af8-868d-a5906672d943"
-    },
-    "id": "63d0e36c77bebca8fa4a57e5"
-    },
-    {
-    "timestamp": "2023-01-25T15:24:42+0100",
-    "consultantId": "96491889460001",
-    "customerId": "25456446464646",
-    "event": "CONSULTATION_FORM_TRIGGER",
-    "value": {
-    "type": "CONSULTATION_FORM_PRIVATE"
-    },
-    "id": "63d13baa8d29857c3536e6de"
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
     }
-]
+  }
